@@ -1,3 +1,4 @@
  conflicto 1
 nos aparecio un error al querer hacer push y que aparezca con git hub
 lo resolvimos poniendo git pull origin main, para poder sincronizar ambos repositoriosluego modificamos algunos archivos cambiando y eliminando el contenido para poder ver las diferencias
+pudimos resolver los conflictos
